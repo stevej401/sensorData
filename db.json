@@ -1,0 +1,14 @@
+{
+  "sensors": [
+    {
+      "id": 1,
+      "name": "indoor",
+      "last_reading": 30
+    },
+    {
+      "name": "outdoor",
+      "id": 2,
+      "last_reading": 40
+    }
+  ]
+}
